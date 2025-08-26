@@ -1,4 +1,4 @@
---- 
+---
 license: cc0-1.0
 ---
 # AI Awareness Recognition Repository
